@@ -29,8 +29,8 @@ The dashboard was built using the following tools and technologies:
 
 The analysis is based on two datasets:
 
-- `beverage_nutrition_dataset.csv`
-- `starbucks_global_locations.csv`
+- `Strabucks Beverage Nutrition Dataset.csv`
+- `Starbucks Global Locations Dataset.csv`
 
 The datasets contain beverage nutritional information, menu categories, preparation methods, caffeine levels, sugar content, protein values, and Starbucks global presence information.
 
@@ -128,7 +128,7 @@ These filters allow users to dynamically explore nutritional patterns and bevera
 
 ## Dashboard Preview
 
-![Starbucks Dashboard](<img width="1433" height="802" alt="Screenshot 2026-06-18 003734" src="https://github.com/user-attachments/assets/eb731af5-f602-4ca3-b6ca-a9204dfd3472" />)
+![Starbucks Dashboard](<img width="1433" height="802" alt="Strabucks Dashboard" src="https://github.com/user-attachments/assets/ebad9d95-eb42-483b-b734-d26b743a89c8" />)
 
 ---
 
@@ -144,10 +144,10 @@ These filters allow users to dynamically explore nutritional patterns and bevera
 
 ## Project Files
 
-- Dataset 1: `beverage_nutrition_dataset.csv`
-- Dataset 2: `starbucks_global_locations.csv`
+- Dataset 1: `Strabucks Beverage Nutrition Dataset.csv`
+- Dataset 2: `Starbucks Global Locations Dataset.csv`
 - Dashboard File: `Starbucks Beverage Intelligence Dashboard.pbix`
-- Dashboard Preview: `starbucks_dashboard.png`
+- Dashboard Preview: `Starbucks Dashboard.png`
 
 ---
 
