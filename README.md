@@ -128,7 +128,7 @@ These filters allow users to dynamically explore nutritional patterns and bevera
 
 ## Dashboard Preview
 
-![Starbucks Dashboard](<img width="1433" height="802" alt="Strabucks Dashboard" src="https://github.com/YashShah1432/Starbucks-Beverage-Intelligence-Dashboard/blob/main/Strabucks%20Dashboard.png" />)
+![Starbucks Dashboard]("https://github.com/user-attachments/assets/dc8800e8-7041-4bf4-953a-4ac80d4f0fe5")
 
 ---
 
