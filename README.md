@@ -25,9 +25,7 @@ The dashboard was built using the following tools and technologies:
 
 ## Data Source
 
-**Source:** Public Starbucks Menu Nutritional Dataset
-
-The analysis is based on two datasets:
+**Source:** The analysis is based on publicly available Starbucks beverage and store location datasets included in this repository:
 
 - `Strabucks Beverage Nutrition Dataset.csv`
 - `Starbucks Global Locations Dataset.csv`
